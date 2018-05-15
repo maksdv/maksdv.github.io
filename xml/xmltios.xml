@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="tablaluchadores.xsl"?>
+	<luchadores>
+		<luchador>
+			<img ruta="../caras/khabibb.jpg"></img>
+			<posiscion>1</posiscion>
+			<nombre>Khabib Nurmagomedov</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>Rusia</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/macg.jpg"></img>
+			<posiscion>2</posiscion>
+			<nombre>Conor McGregor</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>Irlanda</nacionalidad>
+		</luchador>
+		
+		<luchador>
+			<img ruta="../caras/ferg.png"></img>
+			<posiscion>3</posiscion>
+			<nombre>Tony Ferguson</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/edd.png"></img>
+			<posiscion>4</posiscion>
+			<nombre>Eddie Alvarez</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+		<luchador>
+			<img ruta="../caras/pori.png"></img>
+			<posiscion>5</posiscion>
+			<nombre>Dustin Poirier</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/lee.png"></img>
+			<posiscion>6</posiscion>
+			<nombre>Kevin Lee</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+		
+		<luchador>
+			<img ruta="../caras/barbo.jpg"></img>
+			<posiscion>7</posiscion>
+			<nombre>Edson Barboza</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>Brasil</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/justin.jpg"></img>
+			<posiscion>8</posiscion>
+			<nombre>Justin Gaethje</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+		<luchador>
+			<img ruta="../caras/nate.jpg"></img>
+			<posiscion>9</posiscion>
+			<nombre>Nate Diaz</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/chie.jpg"></img>
+			<posiscion>10</posiscion>
+			<nombre>Michael Chiesa</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+	</luchadores>
+	

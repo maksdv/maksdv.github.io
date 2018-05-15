@@ -1,0 +1,124 @@
+
+#bodyrank{
+     overflow-y: hidden;
+}
+.log{
+    float: right;
+}
+#datos{
+    padding: 1px;
+    width: 5%;
+    font-size: 11px;
+}
+#iframeprox{
+    border: none;
+    margin-top: 0.3%;
+}
+#contenido{
+    width: 100%;
+    height: 500px;
+}
+#vidif{
+   background-image: url("../images/snow.png");
+
+}
+#botones{
+    margin-top: 17.5%;
+}
+.boton {
+    border: 1px solid #2e518b;
+    padding: 20px;
+    background-color: red;
+    color: #000; 
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Helvetica', sans-serif;
+    border-radius: 10px;
+    margin-left: 18%;
+}
+.boton:hover{
+    background-color: black;
+    color: red;
+}
+
+.wrapper{
+  margin-right: 2%;
+  width:40%;
+  float: right;
+}
+
+#wrp{
+  padding:30px 0px 0px 0px;
+  font:25px Oswald;
+  color:#e02323;
+  text-transform:uppercase;
+  text-shadow:#000 5px 1px 5px;
+  margin:0px;
+}
+#wrpp{
+  font:13px Open Sans;
+  color:#e02323;
+  text-shadow:#000 0px 1px 5px;
+  margin-bottom:30px;
+}
+input[type="usuario"],input[type="correo"]{
+  width:98%;
+  padding:15px 0px 15px 8px;
+  border-radius:5px;
+  box-shadow:inset 4px 6px 10px -4px rgba(224,10,10), 0 1px 1px -1px rgba(224,10,10);
+  background:rgba(0,0,0,0.2);
+  border:1px solid rgba(224,10,10);
+  margin-bottom:10px;
+  color:#e02323;
+  text-shadow:#000 0px 1px 5px;
+}
+
+input[type="submit"]{
+  width:100%;
+  padding:15px;
+  border-radius:5px;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#e02323), to(#e02323));
+  background-image: -webkit-linear-gradient(#e02323 0%, #e02323 100%);
+  background-image: -moz-linear-gradient(#e02323 0%, #e02323 100%);
+  background-image: -o-linear-gradient(#e02323 0%, #e02323 100%);
+  background-image: linear-gradient(#e02323 0%, #e02323 100%);
+  font:14px Oswald;
+  color:black;
+  text-transform:uppercase;
+  border:1px solid #000;
+  opacity:0.7;
+  
+  
+  border-top:1px solid rgba(224,10,10)!important;
+  -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), to(rgba(255,255,255,0.2)));
+}
+
+input:focus{
+  box-shadow:inset 4px 6px 10px -4px rgba(224,10,10), 0 1px 1px -1px rgba(224,10,10);
+  background:rgba(0,0,0,0.3);
+  @include easeme;
+}
+
+input[type="submit"]:hover{
+  opacity:1;
+  cursor:pointer;
+}
+.optimize{
+  position:fixed;
+  right:3%;
+  top:0px;
+}
+#contact{
+  margin: 20px 20px 20px 40px;
+  color: red;
+  width: 40%;
+  font: 20px Oswald;
+  float: left;
+}
+.contenido2{
+  margin-top: 10%;
+}
+#contf{
+  position: absolute;
+  margin-top: 90%;
+}

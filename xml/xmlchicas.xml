@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="tablaluchadores.xsl"?>
+	<luchadores>
+		<luchador>>
+			<img ruta="../caras/anunes.png"></img>
+			<posiscion>1</posiscion>
+			<nombre>Amanda Nunes</nombre>
+			<victorias>23</victorias>
+			<derrotas>1</derrotas>
+			<nacionalidad>Brasil</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/hholm.png"></img>
+			<posiscion>2</posiscion>
+			<nombre>Holly Holm</nombre>
+			<victorias>22</victorias>
+			<derrotas>1</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+		
+		<luchador>
+			<img ruta="../caras/penin.png"></img>
+			<posiscion>3</posiscion>
+			<nombre>Raquel Pennington</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/czingano.png"></img>
+			<posiscion>4</posiscion>
+			<nombre>Juliana Peña</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>Colombia</nacionalidad>
+		</luchador>
+		<luchador>
+			<img ruta="../caras/kvieira.png"></img>
+			<posiscion>5</posiscion>
+			<nombre>Ketlen Vieira</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>Brasil</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/germ.png"></img>
+			<posiscion>6</posiscion>
+			<nombre>Germaine Randamie</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>Holanda</nacionalidad>
+		</luchador>
+		
+		<luchador>
+			<img ruta="../caras/czingano.png"></img>
+			<posiscion>7</posiscion>
+			<nombre>Cat Zingano</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/marion.png"></img>
+			<posiscion>8</posiscion>
+			<nombre>Marion Reneue</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+		<luchador>
+			<img ruta="../caras/macm.png"></img>
+			<posiscion>9</posiscion>
+			<nombre>Sarah McMann</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+
+		<luchador>
+			<img ruta="../caras/lad.png"></img>
+			<posiscion>10</posiscion>
+			<nombre>Aspenn Ladd</nombre>
+			<victorias>29</victorias>
+			<derrotas>0</derrotas>
+			<nacionalidad>USA</nacionalidad>
+		</luchador>
+	</luchadores>
+	

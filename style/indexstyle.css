@@ -1,0 +1,38 @@
+
+body{
+	background-image: url("../images/khmac.jpg");
+	width: 100%;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	background-size: cover;
+}
+.btn {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #eb001f);
+  background-image: -moz-linear-gradient(top, #000000, #eb001f);
+  background-image: -ms-linear-gradient(top, #000000, #eb001f);
+  background-image: -o-linear-gradient(top, #000000, #eb001f);
+  background-image: linear-gradient(to bottom, #000000, #eb001f);
+  -webkit-border-radius: 70;
+  -moz-border-radius: 70;
+  border-radius: 70px;
+  text-shadow: 1px 1px 3px #4d474d;
+  font-family: fantasy;
+  color: #474444;
+  font-size: 35px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 500px;
+}
+
+.btn:hover {
+  background: #c20817;
+  background-image: -webkit-linear-gradient(top, #c20817, #050505);
+  background-image: -moz-linear-gradient(top, #c20817, #050505);
+  background-image: -ms-linear-gradient(top, #c20817, #050505);
+  background-image: -o-linear-gradient(top, #c20817, #050505);
+  background-image: linear-gradient(to bottom, #c20817, #050505);
+  text-decoration: none;
+}
